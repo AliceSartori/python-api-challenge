@@ -1,6 +1,6 @@
 # Python API Homework - What's the Weather Like?
 
-##Observations: 
+## Observations: 
 
 * The 2 files with the apikeys used to run the analyses were not uploaded for security reasons(APIs used OpenWeatherApi and Google Place API).
 
