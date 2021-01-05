@@ -1,6 +1,14 @@
 # Python API Homework - What's the Weather Like?
 
+##Observations: 
 
+* The 2 files with the apikeys used to run the analyses were not uploaded for security reasons(APIs used OpenWeatherApi and Google Place API).
+
+* From all plots run in Jupyter Notebook and saved in the Plots folder, Temperature seems to be the only strong correlated variable to latitude (either negative or positive correlation, either if we are talking of Northern or Southern Hemisphere). Here proved that latitude influences temperature. 
+
+* The other variables (humidity, cloudiness, windspeed) shows weaker correlations compared to Temperature.
+
+* For the heatmap and the heatmap with the hotel layer, I decided that my strongest limitation was to be associated to latitude in order for me to include cities mainly in Europe. 
 
 
 ## Background
