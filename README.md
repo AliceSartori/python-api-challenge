@@ -1,5 +1,8 @@
 # Python API Homework - What's the Weather Like?
 
+
+
+
 ## Background
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
@@ -18,7 +21,7 @@ But, if pressed, how would you **prove** it?
 
 4. Push the above changes to GitHub.
 
-## Part I - WeatherPy
+WeatherPy
 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
@@ -48,8 +51,6 @@ Your final notebook must:
 * Perform a weather check on each of the cities using a series of successive API calls.
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
-
-### Part II - VacationPy
 
 Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
